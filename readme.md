@@ -1,0 +1,2 @@
+# Overview
+This document presents the theoretical and mathematical analysis of Synthetic Aperture Radar (SAR) imaging. It complements a separate computational report and focuses on modeling, imaging function derivation, resolution analysis, and robustness to noise. The objective is to reconstruct the location of a point-like reflector using frequency-domain data from multiple sensor positions.
